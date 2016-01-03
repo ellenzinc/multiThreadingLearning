@@ -6,10 +6,10 @@
 
 # Unignore all dirs
 !*/
-*/.out
-*/.cpp~
+#*/.out
+#*/.cpp~
 
 bin/
-
+*~
 .out
 *.cpp~

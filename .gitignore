@@ -10,6 +10,7 @@
 #*/.cpp~
 
 bin/
-*~
+*.h~
+*.gitignore~
 .out
 *.cpp~
